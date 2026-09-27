@@ -1,0 +1,2 @@
+Pump 17 remains electrically isolated after a seal leak. Mechanical must replace the pump seal, then run the leak test. Safety must inspect the guard after the leak test. Operations may restore pump power only after both the successful leak test and guard inspection are complete.
+
